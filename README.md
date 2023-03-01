@@ -1,16 +1,14 @@
                                                 !!! Hi there 👋 This is the Julian Garcia Github Profile !!! 
-
+                                             
 
 About Me: 
-
+- ⚡ Bio : ... Network Engineer with more than 10 years of experience in the field, now looking to move forward in the Network Automation field with Python, ansible and all the automation tools. 
 - 🔭 I’m currently working on ... JP Morgan As a Network Engineer 
-- 🌱 I’m currently learning ... 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: julian_1306@hotmail.com / https://www.linkedin.com/in/julian-garcia-1306/
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning ... Python and Cisco Devnet automation
+- 🧑‍💻 Working on ... JP Morgan As a Network Engineer
+- 📫 How to reach me ... julian_1306@hotmail.com 
+- 📟 In Profile ... https://www.linkedin.com/in/julian-garcia-1306/
+
 
 
 
